@@ -1,0 +1,61 @@
+.theme
+{
+	overflow:hidden;
+	background-image:url(../images/duruthu_perahera.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:465px;
+	width:90%;
+	margin:10px auto;
+	font-size:15px;
+	border-top:1px solid white;
+	position:relative;
+}
+.idea
+{
+	width:80%;
+	height:200px;
+	margin-top:4%;
+	margin-left:70px;
+	background-color:#dad8dc;
+	margin-right:10px;
+	padding-left:30px;
+	padding-right:30px;
+	border:2px solid #7c0433;
+	margin-bottom:30px;
+		
+}
+.head
+{
+	margin-left:30px;
+	font-size:20px;
+}
+.idea p
+{
+	font-size:18px;
+	color:#7c0433;
+	text-align:justify;
+	
+}
+#topic
+{
+	font-size:24px; 
+}
+.theme1
+{
+	margin-left:280px;
+	padding:50px 0px;
+}
+.theme2
+{
+	margin-left:280px;
+	padding:50px 0px;
+}
+.theme3
+{
+	margin-left:280px;
+	padding:50px 0px;
+}
+.theme1 p{
+	color:#7c0433;
+}

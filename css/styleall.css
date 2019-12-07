@@ -1,0 +1,184 @@
+body
+{
+	padding:0;
+	margin:0;
+	background-color:#f4f4f4;
+}
+header
+{
+	height:70px;
+	background-color:#191970;
+	
+}
+
+
+
+
+.main-nav
+{
+	float:right;
+	list-style:none;
+	margin-top:30px;
+}
+.main-nav li
+{
+	display:inline-block;
+}
+.main-nav li a 
+{
+	color:white;
+	padding:5px 20px;
+	text-decoration:none;
+	font-size:18px;
+	
+}
+.main-nav li.active a 
+{
+	border:1px solid white;
+	border-radius:8px;
+}
+.main-nav li a:hover
+{
+	border:1px solid white;
+	background-color:white;
+	color:#191970;
+	border-radius:8px;
+}
+
+footer
+{
+	float:left;
+	margin-top:2%;
+	margin-left:0px;
+	background-color:#191970;
+	padding-left:30px;
+	padding-right:30px;
+	height:180px;
+	width:95.5%;
+	font-family:Times New Roman;
+	color:white;	
+}
+.leftfooter
+{
+	float:left;
+}
+.rightfooter
+{
+	float:right;
+}
+
+.theme
+{
+	overflow:hidden;
+	background-image:url(../images/stock-photo-805490.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:465px;
+	width:90%;
+	margin:10px auto;
+	font-size:15px;
+	border-top:1px solid white;
+	position:relative;
+}
+#text
+{
+	position:absolute;
+	top:70px;
+	left:40%;
+	color:white;
+	font-size:50px;
+}
+.theme_row1
+{
+	margin-left:150px;
+	padding:50px 0px;
+}
+
+.theme_row2
+{
+	margin-left:150px;
+	padding:50px 0px;
+}
+.idea
+{
+	height:180px;
+	margin-top:4%;
+	background-color:#191970;
+	margin-right:10px;
+	padding-left:30px;
+	padding-right:30px;
+	border:2px solid #191970;
+	margin-bottom:30px;
+		
+}
+.idea p
+{
+	font-size:20px;
+	color:white;
+}
+.left
+{
+	float:left;
+	width:50%;
+	height:300px;
+	margin-top:4%;
+	margin-left:60px;
+	background-color:#191970;
+	margin-right:10px;
+	padding-left:30px;
+	padding-right:30px;
+	border:2px solid #191970;
+		
+}
+.left p
+{
+	font-size:18px;
+	color:white;
+	text-align:justify;
+	
+}
+.left li
+{
+	color:white;
+}
+#topic
+{
+	font-size:24px; 
+}
+.head
+{
+	margin-left:30px;
+}
+.right
+{
+	float:right;
+	background-color:#191970;
+	height:200px;
+	width:38%;
+	margin-right:30px;
+	border:2px solid #191970;
+}
+.right li
+{
+	color:white;
+}
+.right p
+{
+	font-size:18px;
+	color:white;	
+}
+
+.left li a 
+{
+	color:white;
+	padding:5px 20px;
+	text-decoration:none;
+	
+}
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+.theme
+{
+	overflow:hidden;
+	background-image:url(../images/ella-6-sri-lanka.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:465px;
+	width:90%;
+	margin:10px auto;
+	font-size:15px;
+	border-top:1px solid white;
+	position:relative;
+}
+#text
+{
+	position:absolute;
+	top:70px;
+	left:40%;
+	color:white;
+	font-size:50px;
+}
+.left
+{
+	float:left;
+	width:40%;
+	height:480px;
+	margin-top:4%;
+	margin-left:60px;
+	background-color:#dad8dc;
+	margin-right:10px;
+	padding-left:30px;
+	padding-right:30px;
+		
+}
+.left p
+{
+	font-size:18px;
+	color:#7c0433;
+	text-align:justify;
+	
+}
+#topic
+{
+	font-size:24px; 
+}
+.head
+{
+	margin-left:250px;
+}
+#right
+{
+	float:right;
+	overflow:hidden;
+	background-image:url(../images/3dd039441c74b1767f17663ee9c78f5f.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:700px;
+	width:500px;
+	margin-left:3px;
+	margin-right:5%;
+	border-top:1px solid white;
+}
+.input
+{
+	float:left;
+	margin-top:2%;
+	margin-left:60px;
+	background-color:#dad8dc;
+	margin-right:10px;
+	padding-left:30px;
+	padding-right:30px;
+	height:400px;
+	width:43%;
+	font-family:Times New Roman;
+	border:2px solid #00008B;
+}
+.input h3
+{
+	margin-left:40%;
+}
+.form
+{
+	margin-left:15%;
+	
+}
+c
+{
+	float:left;
+	width:25%;
+}
+
+.form-group
+{
+	
+	width:200px;
+	height:auto;
+	padding:6px 2px;
+	color:#555;
+	background-color:#fff;
+	border-radius:4px;
+}
+.form-submit
+{
+	
+	width:100px;
+	height:auto;
+	padding:6px 2px;
+	color:black;
+	font-size:15px;
+	font-weight:bold;
+	background-color:#fff;
+	border-radius:6px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,87 @@
+.theme
+{
+	overflow:hidden;
+	background-image:url(../images/Travel1.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:465px;
+	width:90%;
+	margin:10px auto;
+	font-size:15px;
+	border-top:1px solid white;
+	position:relative;
+}
+.left
+{
+	float:left;
+	width:50%;
+	height:350px;
+	margin-top:4%;
+	margin-left:60px;
+	background-color:#dad8dc;
+	margin-right:10px;
+	padding-left:30px;
+	padding-right:30px;
+	border:2px solid #7c0433;
+		
+}
+.left p
+{
+	font-size:18px;
+	color:#7c0433;
+	text-align:justify;
+	
+}
+.left li
+{
+	color:#7c0433;
+}
+#topic
+{
+	font-size:24px; 
+}
+#sub a
+{
+	text-decoration:none;
+	font-size:18px;
+
+}
+#sub a hover:
+{
+	
+	border:2px solid white;
+	background-color:white;
+	color:#7c0433;
+	border-radius:8px;
+	border:2px solid #7c0433;
+}
+
+.head
+{
+	margin-left:30px;
+}
+.right
+{
+	float:right;
+	background-color:#dad8dc;
+	height:300px;
+	width:38%;
+	margin-right:30px;
+	border:2px solid #7c0433;
+}
+.right li
+{
+	color:#7c0433;
+}
+.right p
+{
+	font-size:18px;
+	color:#7c0433;	
+}
+#sub2
+{
+	font-size:30px;
+	margin-left:80px;
+	border-radius:8px;
+
+}
